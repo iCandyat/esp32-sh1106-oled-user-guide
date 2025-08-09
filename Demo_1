@@ -1,0 +1,46 @@
+#include <Arduino.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SH110X.h>
+
+// 定义 SPI 引脚
+#define OLED_MOSI 21  // SDA
+#define OLED_CLK  22  // SCK
+#define OLED_CS   5   // CS
+#define OLED_DC   13  // DC
+#define OLED_RESET 4 // RES
+
+// 初始化 SH1106 显示器
+Adafruit_SH1106G display(128, 64, OLED_MOSI, OLED_CLK, OLED_DC, OLED_RESET, OLED_CS);
+
+void setup() {
+  Serial.begin(115200);
+  
+  // 初始化 OLED
+  if (!display.begin(0, true)) {
+    Serial.println("OLED init failed");
+    while (1) delay(100);
+  }
+  
+  Serial.println("OLED initialized");
+  
+  // 显示测试内容
+  display.clearDisplay();
+  display.setTextSize(1);
+  display.setTextColor(SH110X_WHITE);
+  
+  display.setCursor(0, 0);
+  display.print("SPI模式连接成功");
+  
+  display.setCursor(0, 10);
+  display.print("MOSI: GPIO21");
+  
+  display.setCursor(0, 20);
+  display.print("CLK:  GPIO22");
+  
+  display.setCursor(0, 30);
+  display.print("RST:  GPIO4");
+  
+  display.display();
+}
+
+void loop() {}
