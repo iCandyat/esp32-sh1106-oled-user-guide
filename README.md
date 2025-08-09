@@ -32,8 +32,11 @@
 - Windows 64位: [下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Windows_64bit.exe)
 - Windows MSI: [下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Windows_64bit.msi)
 - Windows ZIP:[下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Windows_64bit.zip)
-- linux Applmage:[下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Linux_64bit.AppImage)
-- linux zip:[下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Linux_64bit.zip)
-- macos intel:[下载连接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_macOS_64bit.dmg)
-- macOS :[下载连接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_macOS_arm64.dmg)
+- Linux Applmage:[下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Linux_64bit.AppImage)
+- Linux zip:[下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Linux_64bit.zip)
+- Macos intel:[下载连接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_macOS_64bit.dmg)
+- MacOS :[下载连接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_macOS_arm64.dmg)
 - Arduino IDE官网:[官网链接](https://www.arduino.cc/en/software/)
+
+## esp32_package_2.0.12_arduinome
+- Windows [百度网盘](https://pan.baidu.com/s/1vxRKCljoZyfE3GjvRIpOrw?pwd=1234)
