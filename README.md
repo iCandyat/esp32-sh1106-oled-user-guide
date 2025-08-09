@@ -26,3 +26,14 @@
 - macOS系统：[下载链接](https://www.wch.cn/download/file?id=178)
 - Android系统：[下载链接](https://www.wch.cn/download/file?id=195)
 - WCH官网驱动汇总：[官网链接](https://www.wch.cn/downloads/category/67.html)
+
+
+## Arduino IDE
+- Windows 64位: [下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Windows_64bit.exe)
+- Windows MSI: [下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Windows_64bit.msi)
+- Windows ZIP:[下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Windows_64bit.zip)
+- linux Applmage:[下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Linux_64bit.AppImage)
+- linux zip:[下载链接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Linux_64bit.zip)
+- macos intel:[下载连接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_macOS_64bit.dmg)
+- macOS :[下载连接](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_macOS_arm64.dmg)
+- Arduino IDE官网:[官网链接](https://www.arduino.cc/en/software/)
