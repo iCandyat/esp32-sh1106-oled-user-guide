@@ -40,20 +40,20 @@
 
 
 # 点亮屏幕
-### 打开Arduino IDE
-## 更换语言
-### file-->preferences-->language
-## step 1
-### 打开从百度网盘上下载的esp32_package_2.0.9_arduinome.exe
-## step 2
-### Arduino-->工具-->开发板-->esp32-->ESP32 WROVER MODULE
-### Arduino-->工具-->端口-->COMx(视情况而定)
-## step3
-### Arduino-->工具-->管理库
-### 搜索并安装 Adafruit GFX Library by Adafruit
-### 搜索并安装 Adafruit BusIO by Adafruit
-### 搜索并安装 Adafruit SH110X by Adafruit
-## step4
-### copy https://github.com/iCandyat/esp32-sh1106-oled-user-guide/blob/main/Demo_1 代码至Arduino IDE,单击"上传"编译代码并推送到开发板
-### 如果顺利,那么此刻你的屏幕就该亮起来了
-### 🎉恭喜🎉
+#### 打开Arduino IDE
+### 更换语言
+#### file-->preferences-->language
+### step 1
+#### 打开从百度网盘上下载的esp32_package_2.0.9_arduinome.exe
+### step 2
+#### Arduino-->工具-->开发板-->esp32-->ESP32 WROVER MODULE
+#### Arduino-->工具-->端口-->COMx(视情况而定)
+### step3
+#### Arduino-->工具-->管理库
+#### 搜索并安装 Adafruit GFX Library by Adafruit
+#### 搜索并安装 Adafruit BusIO by Adafruit
+#### 搜索并安装 Adafruit SH110X by Adafruit
+### step4
+#### copy https://github.com/iCandyat/esp32-sh1106-oled-user-guide/blob/main/Demo_1 代码至Arduino IDE,单击"上传"编译代码并推送到开发板
+#### 如果顺利,那么此刻你的屏幕就该亮起来了
+# 🎉恭喜🎉
