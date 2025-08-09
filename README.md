@@ -52,3 +52,9 @@
 ## step 2
 ### Arduino-->工具-->开发板-->esp32-->ESP32 WROVER MODULE
 ### Arduino-->工具-->端口-->COMx(视情况而定)
+## step3
+### Arduino-->工具-->管理库
+### 搜索并安装 Adafruit GFX Library by Adafruit
+### 搜索并安装 Adafruit BusIO by Adafruit
+### 搜索并安装 Adafruit SH110X by Adafruit
+### step4
