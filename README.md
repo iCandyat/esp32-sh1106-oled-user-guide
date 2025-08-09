@@ -57,3 +57,5 @@
 #### copy https://github.com/iCandyat/esp32-sh1106-oled-user-guide/blob/main/Demo_1 代码至Arduino IDE,单击"上传"编译代码并推送到开发板
 #### 如果顺利,那么此刻你的屏幕就该亮起来了
 # 🎉恭喜🎉
+# 报错/有疑问
+### 发送邮件至 icandyat@gmail.com
