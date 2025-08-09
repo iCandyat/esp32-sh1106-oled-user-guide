@@ -48,7 +48,7 @@
 - 更换语言：`File`→`Preferences`→`Language`（选择所需语言）
 
 ### 2. 安装ESP32开发包
-- 打开从百度网盘下载的`esp32_package_2.0.9_arduinome.exe`，按照提示完成安装
+- 打开从[百度网盘](https://pan.baidu.com/s/1vxRKCljoZyfE3GjvRIpOrw?pwd=1234)下载的`esp32_package_2.0.9_arduinome.exe`，按照提示完成安装
 
 ### 3. 配置开发板
 - 选择开发板：`Arduino`→`工具`→`开发板`→`esp32`→`ESP32 WROVER MODULE`
