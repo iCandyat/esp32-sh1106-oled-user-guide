@@ -62,7 +62,7 @@
   - Adafruit SH110X by Adafruit
 
 ### 5. 上传测试代码
-- 复制代码：访问[GitHub仓库](https://github.com/iCandyat/esp32-sh1106-oled-user-guide/blob/main/Demo_1)，复制示例代码
+- 复制代码：访问[GitHub仓库](https://github.com/iCandyat/esp32-sh1106-oled-user-guide/blob/main/Demo_1.ino)，复制示例代码
 - 粘贴到Arduino IDE中
 - 单击"上传"按钮，编译并将代码推送到开发板
 
