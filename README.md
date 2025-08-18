@@ -51,6 +51,7 @@
 - 打开从[百度网盘](https://pan.baidu.com/s/1vxRKCljoZyfE3GjvRIpOrw?pwd=1234)下载的`esp32_package_2.0.9_arduinome.exe`(ESP32开发包)
 
 ### 3. 配置开发板
+- 安装ESP32开发包后请稍作等待
 - 选择开发板：`Arduino`→`工具`→`开发板`→`esp32`→`ESP32 WROVER MODULE`
 - 选择端口：`Arduino`→`工具`→`端口`→`COMx`（根据实际连接的端口选择）
 
